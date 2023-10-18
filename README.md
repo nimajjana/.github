@@ -1,7 +1,5 @@
 ## Nimajjana Game Engine
 
-Next-gen Game Engine for Solo Programmers
-
 Check out the open-source edition: [nijtech](https://github.com/nimajjana/nijtech)
 
 <!--
