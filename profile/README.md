@@ -2,6 +2,7 @@
 
 Check out the open-source edition: [nijtech](https://github.com/nimajjana/nijtech)
 
+<sub><a href="https://thenounproject.com/icon/puzzle-piece-994898/">Logo Credits: Vectors Market (CC BY 3.0)</a></sub>
 <!--
 
 **Here are some ideas to get you started:**
